@@ -6,6 +6,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
 class JaarTest {
+
     @Test
     @DisplayName("Een jaar deelbaar door 400 is geen schrikkeljaar.")
     void eenJaarDeelbaarDoor400IsEeenSchrikkeljaar() {
